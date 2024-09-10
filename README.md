@@ -1,2 +1,0 @@
-# BambooDemo-main
-BambooDemo-main
